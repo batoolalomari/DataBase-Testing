@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-01T16:51:31 EET" name="Default suite" finished-at="2024-07-01T16:51:32 EET" duration-ms="365">
+    <groups>
+    </groups>
+    <test started-at="2024-07-01T16:51:31 EET" name="Default test" finished-at="2024-07-01T16:51:32 EET" duration-ms="365">
+      <class name="CustomersDbTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:CustomersDbTest@6dc17b83]" started-at="2024-07-01T16:51:31 EET" name="SetUp" finished-at="2024-07-01T16:51:32 EET" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="addDate()[pri:1, instance:CustomersDbTest@6dc17b83]" started-at="2024-07-01T16:51:32 EET" name="addDate" finished-at="2024-07-01T16:51:32 EET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDate -->
+        <test-method signature="updateDate()[pri:2, instance:CustomersDbTest@6dc17b83]" started-at="2024-07-01T16:51:32 EET" name="updateDate" finished-at="2024-07-01T16:51:32 EET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateDate -->
+        <test-method signature="getDate()[pri:3, instance:CustomersDbTest@6dc17b83]" started-at="2024-07-01T16:51:32 EET" name="getDate" finished-at="2024-07-01T16:51:32 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDate -->
+        <test-method signature="deleteDate()[pri:4, instance:CustomersDbTest@6dc17b83]" started-at="2024-07-01T16:51:32 EET" name="deleteDate" finished-at="2024-07-01T16:51:32 EET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteDate -->
+      </class> <!-- CustomersDbTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
